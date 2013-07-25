@@ -22,7 +22,7 @@ options=('!strip')
 source=('config'
         'change-default-console-loglevel.patch'
         "linux.tar.gz::https://github.com/${_github_user}/${_github_repo}/tarball/${_github_commitID}")
-md5sums=('89cc24ff46953d3752cd14c0a7f1390b'
+md5sums=('08d2c1a4c52c058b5808bfee4a91c9d0'
          '9d3c56a4b999c8bfbd4018089a62f662'
          '1d57b811237d5447bedacf74be15808e')
 
